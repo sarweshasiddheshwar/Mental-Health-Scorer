@@ -8,7 +8,7 @@
   /* ---------------------------------------------------------
      0. CONFIG — keep the backend contact points in one place
      --------------------------------------------------------- */
-  const API_URL = "http://127.0.0.1:8000";
+  const API_URL = "https://mental-health-scorer-xpym.onrender.com";
   const PREDICT_PATH = "/predict";
 
   // The backend (main.py) only returns `predicted_mental_health_score`
